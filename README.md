@@ -1,1 +1,1 @@
-# AMZ_ABSA
+# amazon-absa
