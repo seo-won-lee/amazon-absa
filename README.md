@@ -32,7 +32,7 @@ ___
 	- discount_percentage
 	- large_category, mid_category, small_category
 
---
+___
 
 ### 🔎 Methodology
 
@@ -56,20 +56,20 @@ ___
 -	Step 2: Aggregate weighted sentiment scores per product
 -	Step 3: Apply high-price adjustment factor
 
---
+___
 
 ### 📊 Results
 -	Distribution: Final scores follow a near-normal distribution, unlike skewed original ratings
 -	Comparison: Products with identical ratings can be differentiated by ABSA-based scores
 
---
+___
 
 ### 💡 Implications
 -	ABSA provides a more reliable indicator than raw ratings
 -	Helps identify category-specific drivers of satisfaction
 -	Potential application in recommendation systems & product benchmarking
 
---
+___
 
 ### 👥 Team
 	- Dacos Team 2 (Spring 2025)
