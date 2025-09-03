@@ -71,7 +71,7 @@ amazon-absa/
 
 ---
 
-### 👥 Contributors
+### 👥 Team
 	- Dacos Team 2 (Spring 2025)
 | Name            | Role                          | GitHub                    |
 |-----------------|-------------------------------|---------------------------|
