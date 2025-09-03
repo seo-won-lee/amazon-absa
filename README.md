@@ -77,6 +77,6 @@ amazon-absa/
 |-----------------|-------------------------------|---------------------------|
 | SeoWon Lee      | Project Lead                  | [@seo-won-lee](https://github.com/seo-won-lee) |
 | SeBin Jeong     |                               |                            |
-| CheEun Yoon     |                                |                            |
+| ChaeEun Yoon     |                                |                            |
 | HyeLim Je       |                                |                             |
   
