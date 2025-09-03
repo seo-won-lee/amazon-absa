@@ -1,6 +1,7 @@
 # amazon-absa 
 
 [25-Spring] Dacos Project
+- You can check the full presentation [here](presentation.pdf)
 
 ### 📌 Overview
 
@@ -11,8 +12,6 @@ Our final goal is to design a new scoring system that:
 - Reflects aspect-level importance for each product category
 - Incorporates sentiment polarity (positive / neutral / negative)
 - Adjusts scores based on product price tier & discount factor
-
-- You can check the full presentation [here](./[25-1] DACOS 2팀 최종발표.pdf).
 
 ---
 
