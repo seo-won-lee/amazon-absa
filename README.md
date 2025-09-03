@@ -27,16 +27,16 @@ Our final goal is to design a new scoring system that:
 
 ### 🔎 Methodology
 
-1. Aspect Extraction (ATE)
+**1. Aspect Extraction (ATE)**
 - LDA topic modeling
 - RoBERTa-base ABSA (gauneg/roberta-base-absa-ate-sentiment)
 - Manual refinement for common aspects
 
-2. Sentiment Classification
+**2. Sentiment Classification**
 - Two-step (ACD + Sentiment) and End-to-End LLM prompt-based approaches tested
 -	Final method: GPT-3.5-turbo (prompt-based ABSA)
 
-3. Scoring System
+**3. Scoring System**
 -	Step 1: Compute aspect weight per category
 -	Step 2: Aggregate weighted sentiment scores per product
 -	Step 3: Apply high-price adjustment factor
@@ -56,7 +56,7 @@ Our final goal is to design a new scoring system that:
 
 ---
 
-👥 Contributors
+### 👥 Contributors
 	- Dacos Team 2 (Spring 2025)
 | Name            | Role                          | GitHub                    |
 |-----------------|-------------------------------|---------------------------|
