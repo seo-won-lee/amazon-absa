@@ -21,7 +21,7 @@ amazon-absa/
 ├── scoring/             # Scoring system implementation
 ├── presentation.pdf     # Final presentation slides
 ```
----
+--
 
 ### 🗂 Dataset
 - Source: [Amazon Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
@@ -32,7 +32,7 @@ amazon-absa/
 	- discount_percentage
 	- large_category, mid_category, small_category
 
----
+--
 
 ### 🔎 Methodology
 
@@ -56,20 +56,20 @@ amazon-absa/
 -	Step 2: Aggregate weighted sentiment scores per product
 -	Step 3: Apply high-price adjustment factor
 
----
+--
 
 ### 📊 Results
 -	Distribution: Final scores follow a near-normal distribution, unlike skewed original ratings
 -	Comparison: Products with identical ratings can be differentiated by ABSA-based scores
 
----
+--
 
 ### 💡 Implications
 -	ABSA provides a more reliable indicator than raw ratings
 -	Helps identify category-specific drivers of satisfaction
 -	Potential application in recommendation systems & product benchmarking
 
----
+--
 
 ### 👥 Team
 	- Dacos Team 2 (Spring 2025)
