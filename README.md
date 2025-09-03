@@ -73,10 +73,10 @@ amazon-absa/
 
 ### 👥 Team
 	- Dacos Team 2 (Spring 2025)
-| Name            | Role                          | GitHub                    |
-|-----------------|-------------------------------|---------------------------|
-| SeoWon Lee      | Project Lead                  | [@seo-won-lee](https://github.com/seo-won-lee) |
+| Name            | Role                          |
+|-----------------|-------------------------------|
+| [Seowon Lee](https://github.com/seo-won-lee)      | Project Lead                  |
+| [Hyelim Je](https://github.com/jehyelim)       |                                |
+| [ChaeEun Yoon](https://github.com/melitina915)     |                                | 
 | SeBin Jeong     |                               |                            |
-| ChaeEun Yoon     |                                |                            |
-| HyeLim Je       |                                |                             |
-  
+
