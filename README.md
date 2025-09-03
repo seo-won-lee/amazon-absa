@@ -75,8 +75,8 @@ ___
 	- Dacos Team 2 (Spring 2025)
 | Name            | Role                          |
 |-----------------|-------------------------------|
-| [Seowon Lee](https://github.com/seo-won-lee)      | Project Lead                  |
-| [Hyelim Je](https://github.com/jehyelim)       |                                |
-| [ChaeEun Yoon](https://github.com/melitina915)     |                                | 
-| SeBin Jeong     |                               |                            |
+| [Seo Won Lee](https://github.com/seo-won-lee)      | Project Lead                  |
+| [Hye Lim Je](https://github.com/jehyelim)       |                                |
+| [Chae Eun Youn](https://github.com/melitina915)     |                                | 
+| Se Bin Jeong     |                               |                            |
 
