@@ -13,13 +13,14 @@ Our final goal is to design a new scoring system that:
 - Incorporates sentiment polarity (positive / neutral / negative)
 - Adjusts scores based on product price tier & discount factor
 
+'''
 amazon-absa/
 ├── preprocessing/       # Scripts for data cleaning, preprocessing
 ├── absa/                # ATE, Sentiment Classification
 ├── visualization/       # Plots & charts for insights
 ├── scoring/             # Scoring system implementation
 ├── presentation.pdf     # Final presentation slides
-
+'''
 ---
 
 ### 🗂 Dataset
