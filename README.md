@@ -78,5 +78,5 @@ ___
 | [Seo Won Lee](https://github.com/seo-won-lee)      | Project Lead                  |
 | [Hye Lim Je](https://github.com/jehyelim)       |                                |
 | [Chae Eun Youn](https://github.com/melitina915)     |                                | 
-| [Se Been Jeong]((https://github.com/sebeenjeong))     |                               |                            |
+| [Se Been Jeong](https://github.com/sebeenjeong)     |                               |                            |
 
