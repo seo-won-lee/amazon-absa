@@ -36,7 +36,7 @@ ___
 
 ### 🔎 Methodology
 
-**1. Aspect Extraction (ATE)**
+**1. Aspect Term Extraction (ATE)**
 - LDA topic modeling
 - RoBERTa-base ABSA (gauneg/roberta-base-absa-ate-sentiment)
 - Manual refinement for common aspects
